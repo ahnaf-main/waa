@@ -1,1 +1,2 @@
 1. Learn Git + CMD
+2. Learn Python and get comfy with VS
