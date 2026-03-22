@@ -1,2 +1,11 @@
+Coding:
+-------
 1. Learn Git + CMD
 2. Learn Python and get comfy with VS
+3. Practice daily.
+
+Trading:
+--------
+1. Add funds to trading account.
+2. Learn more fundamentals.
+3. Make 1 successful trade.
