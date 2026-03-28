@@ -1,0 +1,3 @@
+completed setup of git, github, and vscode
+
+mar. 28/2026
